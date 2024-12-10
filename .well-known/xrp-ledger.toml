@@ -1,0 +1,28 @@
+[[ISSUERS]]
+address = "rniCNwo7oAeqBWtAnwgauZN3uxbVRn1m3p"
+name = "Ruggles"
+
+[[ACCOUNTS]]
+address = "rniCNwo7oAeqBWtAnwgauZN3uxbVRn1m3p"
+network = "main"
+
+[[TOKENS]]
+issuer = "rniCNwo7oAeqBWtAnwgauZN3uxbVRn1m3p"
+currency = "$RUG"
+name = "Ruggles"
+desc = "Ruggles is here to uplift the XRPLNFT community with greater cooperation, stronger floors, and a deeper sense of family across projects—one floor sweep at a time."
+icon = "https://static.wixstatic.com/media/2e023f_1dda8d3e8fcb420390cd44a941e8ec11~mv2.png/v1/fill/w_321,h_339,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ruggles_PNG.png"
+
+[[TOKENS.WEBLINKS]]
+url = "https://www.xrpruggles.net/"
+type = "website"
+title = "Official Website"
+
+[[TOKENS.WEBLINKS]]
+url = "https://x.com/rugglesxrp?s=21&t=bV4mlroxkLZvJiuk8ojHyw"
+type = "socialmedia"
+title = "X Community"
+
+[[TOKENS.WEBLINKS]]
+url = "https://linktr.ee/rugglesxrp"
+type = "linktree"
